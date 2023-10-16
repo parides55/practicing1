@@ -1,0 +1,18 @@
+h1 {
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}  
+
+a {
+    text-decoration-line: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
