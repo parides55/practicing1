@@ -1,3 +1,11 @@
+body {
+    background-image: url(../images/homepagepic.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: lightskyblue;
+}
+
+
 h1 {
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -7,6 +15,7 @@ h1 {
 
 nav {
     text-align: center;
+    
 }  
 
 a {
