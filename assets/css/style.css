@@ -1,27 +1,14 @@
-body {
-    background-image: url(../images/homepagepic.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-color: lightskyblue;
+/*  Header */
+header {
+    background-color: lightseagreen;
 }
 
-
-h1 {
-    font-style: normal;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: xxx-large;
-    text-align: center;
+/*  Main Content */
+main {
+    background-color: orangered;
 }
 
-nav {
-    text-align: center;
-    
-}  
-
-a {
-    text-decoration-line: none;
-    margin-left: 10px;
-    margin-right: 10px;
+/*  Footer */
+footer {
+    background-color: darkgreen;
 }
-
-
